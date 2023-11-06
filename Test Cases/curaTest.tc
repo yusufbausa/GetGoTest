@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This particular test include
+- click
+- verify element is present
+- verify element is not present
+- scroll till element
+- zoom in &amp; zoom out</description>
+   <name>curaTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2679932-5f43-49ae-8f45-640f4554e91b</testCaseGuid>
+</TestCaseEntity>
