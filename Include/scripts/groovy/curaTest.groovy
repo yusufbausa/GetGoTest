@@ -46,14 +46,14 @@ import cucumber.api.java.en.When
 class curaTest {
 
 	@Given("Open https://katalon-demo-cura.herokuapp.com/")
-	def open_https_katalon_demo_cura_herokuapp_com() {		
+	def open_https_katalon_demo_cura_herokuapp_com() {
 		WebUI.openBrowser('')
 		WebUI.maximizeWindow()
 		WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 	}
-	
+
 	@When("Click button Make Appointment and Login Succeed (.*) and (.*)")
-	def Click_button_Make_Appointment_and_Login_Succeed(String username, String password) {		
+	def Click_button_Make_Appointment_and_Login_Succeed(String username, String password) {
 		WebUI.click(findTestObject('Object Repository/curaTest/btn_make_appointment'))
 		WebUI.delay(3)
 		WebUI.verifyElementPresent(findTestObject('Object Repository/curaTest/field_username'), 5)
@@ -62,7 +62,7 @@ class curaTest {
 		WebUI.setText(findTestObject('Object Repository/curaTest/field_password'), password)
 		WebUI.click(findTestObject('Object Repository/curaTest/btn_login'))
 	}
-	
+
 	@And("Make appointment (.*) and (.*)")
 	def Make_appointment(String date, String notes) {
 		WebUI.verifyElementPresent(findTestObject('Object Repository/curaTest/text_to_verify_present'), 5)
@@ -73,7 +73,7 @@ class curaTest {
 		WebUI.click(findTestObject('Object Repository/curaTest/btn_book_appointment'))
 		WebUI.delay(3)
 	}
-	
+
 	@Then("Click back to homepage")
 	def Click_back_to_homepage() {
 		WebUI.click(findTestObject('Object Repository/curaTest/btn_go_to_homepage'))
@@ -81,6 +81,4 @@ class curaTest {
 		WebUI.verifyElementNotPresent(findTestObject('Object Repository/curaTest/text_to_verify_not_present'), 5)
 		WebUI.closeBrowser()
 	}
-
-
 }

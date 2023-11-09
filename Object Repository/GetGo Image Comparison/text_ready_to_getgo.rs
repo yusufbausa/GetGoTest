@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ready_to_getgo</name>
+   <tag></tag>
+   <elementGuidId>f150d709-1766-44a1-bd45-231b40a0515d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-11039']/div/div[4]/div/div[2]/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.fusion-title-heading.title-heading-center.fusion-responsive-typography-calculated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b7f16e11-75d8-4eba-8295-7bd6ec837d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fusion-title-heading title-heading-center fusion-responsive-typography-calculated</value>
+      <webElementGuid>5b819b03-63a4-47a8-b0d0-b5a06b4ce763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ready to GetGo?</value>
+      <webElementGuid>c6903080-6780-4076-a34b-b68c740d7a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-11039&quot;)/div[@class=&quot;post-content&quot;]/div[@class=&quot;fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling&quot;]/div[@class=&quot;fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap&quot;]/div[@class=&quot;fusion-layout-column fusion_builder_column fusion-builder-column-9 fusion_builder_column_1_3 1_3 fusion-flex-column&quot;]/div[@class=&quot;fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column&quot;]/div[@class=&quot;fusion-title title fusion-title-8 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two&quot;]/h2[@class=&quot;fusion-title-heading title-heading-center fusion-responsive-typography-calculated&quot;]</value>
+      <webElementGuid>b8b72e64-a5e8-461c-ad22-e80084fb6cce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-11039']/div/div[4]/div/div[2]/div/div/h2</value>
+      <webElementGuid>0564067b-caca-42ff-b4e8-9c825281fc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/following::h2[1]</value>
+      <webElementGuid>ef530744-242c-404e-a937-cfdf56386f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User guide'])[1]/following::h2[1]</value>
+      <webElementGuid>8e67e655-5874-41c0-848a-fdcc15d2ef45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book now'])[2]/preceding::h2[1]</value>
+      <webElementGuid>2262093e-c914-49bd-9aaf-368360291c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meet the fleet'])[1]/preceding::h2[1]</value>
+      <webElementGuid>214dbd14-ac05-463e-bbe6-7d09b2680c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ready to GetGo?']/parent::*</value>
+      <webElementGuid>95f47234-69fa-417d-8e9d-98fc56faf7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h2</value>
+      <webElementGuid>ebe64656-1388-4ea0-8ebc-6d8e1a85af15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Ready to GetGo?' or . = 'Ready to GetGo?')]</value>
+      <webElementGuid>ad24a531-0727-4551-a4aa-bd15a4bf0db0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
